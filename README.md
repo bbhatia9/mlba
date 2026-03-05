@@ -200,12 +200,3 @@ Predictive maintenance systems like this can be applied in:
 - Increased asset lifespan
 - Early failure detection
 
----
-
-## Author
-
-Bhavesh Bhatia  
-MBA – Business Analytics  
-Goa Institute of Management
-
-GitHub: https://github.com/bbhatia9
